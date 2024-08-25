@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+
+## Hunter Postiglione
+  Excited to learn more about data science during these modules.
